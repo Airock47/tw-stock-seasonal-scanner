@@ -1,6 +1,6 @@
-cache/
 __pycache__/
 *.pyc
 *.csv
 results_summary.txt
 .streamlit/
+cache/test_result.txt
